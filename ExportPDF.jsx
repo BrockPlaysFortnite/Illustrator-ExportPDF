@@ -1,5 +1,10 @@
 #target illustrator
 
+// Created with the help of ChatGPT, a monumental marvel of human ingenuity. 
+// In order to use, just save the file in your Illustrator scripts folder. 
+// Usually in 'C:\Program Files\Adobe\Adobe Illustrator 2023\Presets\en_US\Scripts'
+// You can create an 'action' to automatically run the script with a hotkey. 
+
 // Get the user's desktop folder
 var desktopFolder = Folder.desktop;
 
